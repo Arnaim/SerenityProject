@@ -1,0 +1,10 @@
+# gitignore file for Serenity project
+
+# Python
+__pycache__/
+assets/data.db
+<<<<<<< HEAD
+temp.py
+=======
+.dist/
+>>>>>>> 5140267b785593b61dc66a8fc2384721442c4aaa
